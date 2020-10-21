@@ -1,2 +1,2 @@
-# BEfinal_yr_project
-B.E. Final Year Project Assets
+# BE Final Year Project
+> B.E. Final Year Project Assets
